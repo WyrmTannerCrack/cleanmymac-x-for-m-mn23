@@ -1,4 +1,4 @@
-
+Enhance CleanMyMac X for macOS with CleanMyMac X for macOS vip Automation - clipboard-manager and scripting-support, the #1 automation. Includes clipboard-manager and
 
 
 
